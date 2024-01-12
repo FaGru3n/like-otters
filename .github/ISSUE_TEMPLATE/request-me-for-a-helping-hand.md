@@ -8,7 +8,7 @@ assignees: FaGru3n
 ---
 
 **Question**  
-What is the problem you have? What do you want?
+What is the problem you have? What do you want to know?
 
 **Web-Links**  
 Helpful Links for me to understand
